@@ -1,4 +1,6 @@
-as3-rest
+AS3-REST
 ========
 
-Basic REST-Service framework
+Basic REST-Service framework.
+
+I should write description.
